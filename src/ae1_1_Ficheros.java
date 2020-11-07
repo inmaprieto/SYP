@@ -1,8 +1,6 @@
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
 
-public class ae1_1_1 {
+public class ae1_1_Ficheros {
     public static void main(String[] args) throws IOException {
         String pathname;
         int limiter_lines;
