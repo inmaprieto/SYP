@@ -5,7 +5,7 @@ public class ae1_1_Ficheros {
         String pathname;
         int limiter_lines;
         if (args.length > 0){
-            pathname = args[1];
+            pathname = args[0];
         }else{
             pathname = "fichero.txt";
         }
